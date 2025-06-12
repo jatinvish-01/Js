@@ -1,8 +1,8 @@
-"use strict"; // treat all Js code a newer version 
+"use strict"; 
 
-//  alert (3 + 3) -----> we are using nodejs, not browser
 
-console.table (3+3); // code readability should be high
+
+console.table (3+3);
 console.table("jatin vish")
 
 // number => 2 to power 53

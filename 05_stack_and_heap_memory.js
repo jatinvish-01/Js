@@ -5,13 +5,12 @@ let myWebsiteName = "jativihwa.com"
 
 let anotherName = myWebsiteName
 anotherName = "hitesh chai aur code"
-// in stack original value change nhi hota hai uska copy value change hota hai.
 console.log(myWebsiteName)
 console.log(anotherName)    //Output: output is not same.
 
 // heap memory
 
-let idOne = {        // in heap memory original value change hota hai.
+let idOne = {     
     email: "jatin@google.com",
     upi: "xyz@abc",
 }
